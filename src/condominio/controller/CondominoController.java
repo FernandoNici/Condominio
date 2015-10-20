@@ -10,5 +10,5 @@ package condominio.controller;
  * @author Nando
  */
 public class CondominoController {
-    
+    conflito
 }
